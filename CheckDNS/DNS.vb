@@ -1,7 +1,7 @@
 ﻿'Created by Justin Wyllys
-'version 1.0.0
-'12/7/2011
-'Last updated 2013-08-15 //added msoid record
+'version 1.2.2
+'Initially created 12/7/2011
+'Last updated 2016-12-22 //published on github
 
 Imports System.IO
 Module CheckDNSrecords
