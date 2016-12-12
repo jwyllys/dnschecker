@@ -49,3 +49,17 @@ C:\Users\Justin\Desktop\Visual Studio Projects\CheckDNSv2.0\CheckDNS\obj\x86\Rel
 E:\my-code\CheckDNSv2.0\CheckDNS\obj\x86\Release\CheckDNS.exe
 E:\my-code\CheckDNSv2.0\CheckDNS\obj\x86\Release\CheckDNS.xml
 E:\my-code\CheckDNSv2.0\CheckDNS\obj\x86\Release\CheckDNS.pdb
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.exe
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.xml
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.pdb
+E:\my-code\dnschecker\CheckDNS\bin\Release\CheckDNS.exe.manifest
+E:\my-code\dnschecker\CheckDNS\bin\Release\CheckDNS.application
+E:\my-code\dnschecker\CheckDNS\bin\Release\CheckDNS.exe
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.DNS.resources
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.Resources.resources
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.vbproj.GenerateResource.Cache
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.TrustInfo.xml
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.exe.manifest
+E:\my-code\dnschecker\CheckDNS\obj\x86\Release\CheckDNS.application
+E:\my-code\dnschecker\CheckDNS\bin\Release\CheckDNS.pdb
+E:\my-code\dnschecker\CheckDNS\bin\Release\CheckDNS.xml

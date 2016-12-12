@@ -88,7 +88,7 @@ Partial Class DNS
         Me.lblDescription.Size = New System.Drawing.Size(252, 30)
         Me.lblDescription.TabIndex = 20
         Me.lblDescription.Text = "This program will query a public DNS server for the specified domain. It will ret" & _
-            "urn the following records: "
+    "urn the following records: "
         '
         'txtDomain
         '
@@ -148,8 +148,8 @@ Partial Class DNS
         'txtResults
         '
         Me.txtResults.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtResults.BackColor = System.Drawing.SystemColors.Window
         Me.txtResults.Location = New System.Drawing.Point(293, 29)
         Me.txtResults.Multiline = True
@@ -183,11 +183,11 @@ Partial Class DNS
         '
         Me.lblOwner.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.lblOwner.AutoSize = True
-        Me.lblOwner.Location = New System.Drawing.Point(516, 9)
+        Me.lblOwner.Location = New System.Drawing.Point(562, 9)
         Me.lblOwner.Name = "lblOwner"
-        Me.lblOwner.Size = New System.Drawing.Size(348, 13)
+        Me.lblOwner.Size = New System.Drawing.Size(298, 13)
         Me.lblOwner.TabIndex = 28
-        Me.lblOwner.Text = "DNS Checker v1.2.2 - Copyright 2013 - Justin Wyllys (web@jrwpcs.com)"
+        Me.lblOwner.Text = "DNS Checker v1.2.2 - https://github.com/jwyllys/dnschecker"
         '
         'chkMX
         '
